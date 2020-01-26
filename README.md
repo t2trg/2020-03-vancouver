@@ -69,7 +69,7 @@ Probably WebEx: TBD
 
 The workshop is free-of-charge to attend, but if you intend to join
 (locally or remotely), please register as soon as possible using the
-following form:  TBD
+following form:  https://forms.gle/PpJNQCGyxqcqPaXGA
 
 
 ## Continuing work during IETF week

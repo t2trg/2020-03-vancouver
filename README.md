@@ -1,4 +1,4 @@
-# T2TRG 2020-03-20 pre-IETF107 work meeting in Vancouver
+# T2TRG pre-IETF107 work meeting in Vancouver
 
 We are planning to have a T2TRG work meeting on Friday, March 20th, in
 Vancouver before the IETF week.

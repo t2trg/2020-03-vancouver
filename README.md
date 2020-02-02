@@ -58,11 +58,12 @@ Room: TBD
 
 We won't have professional AV, but there will be best-effort remote
 participation support.
-Probably WebEx: TBD
+
+Tentative WebEx: https://ietf.webex.com/ietf/j.php?MTID=m389d8fb7afe63bcff2b93742c9d6c4ba
 
 * Call-in toll number (US/Canada): 1-650-479-3208
-* Meeting number (access code): TBD
-* Meeting password: TBD
+* Meeting number (access code): 640 663 499
+* Meeting password: constrained
 
 
 ## Registration

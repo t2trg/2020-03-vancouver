@@ -1,14 +1,15 @@
 # T2TRG pre-IETF107 work meeting in Vancouver
 
-We are planning to have a T2TRG work meeting on Friday, March 20th, in
-Vancouver before the IETF week.
-We are planning to focus this meeting on work that could benefit the
-One Data Model liaison group (OneDM).
+**Update:** since many of us are not able to travel to Vancouver, we are planning to have this meeting (mostly) online. 
+
+We are planning to have a T2TRG work meeting on Friday, March 20th, before the IETF week.
+We are planning to focus this meeting on work that could benefit the One Data Model liaison group (OneDM).
 
 We could work on providing input that OneDM could use on, e.g.:
 
 * Versioning/evolution of data models, and of the data model language ([SDF][])
 * Elements and structure of standardization of the [SDF][] language
+* Terminology for data/info/thing models
 
 [SDF]: https://github.com/one-data-model/language
 
@@ -21,6 +22,7 @@ IETF106 hackathon, including:
     * Discovery processes
     * Protocol bindings
     * Semantic APIs
+* Other technical issues from the [OneDM Github](https://github.com/one-data-model/language/issues)
 
 We expect participants to be familiar with the SDF effort and the data
 models already being worked on in the [OneDM playground][].
@@ -32,39 +34,30 @@ paper on a technical topic, please send email to us now (t2trg-chairs@irtf.org).
 
 ## Agenda
 
-We plan to start in the morning (say, 09:00) and work until the end of
-the afternoon (say, 18:00).
+We plan to start in the morning Vancouver time and continue for ~3 hours.
 
 Detailed timing of the slots to be determined.
 
 |         Time | Topic                                                                |
 | ------------ | -------------------------------------------------------------------- |
 | 09:00..09:10 | Welcome, Logistics                                                   |
-|              | TBD (see above)                                                      |
-| 17:45..18:00 | Wrap-up and close (all)                                              |
+| 09:10..09:40 | Versioning/evolution of data models/data model language              |
+| 09:40..11:00 | OneDM key technical issues                                           |
+| 11:00..11:45 | OneDM SDF and IETF standardization                                   |
+| 11:45..12:00 | Wrap-up and close                                                    |
 
 
 ## Logistics
 
-Live notes: TBD
+Live notes: https://hackmd.io/R9n8naQcTMeX0n1miV5_Yw?both
 
-Location: TBD (we hope close to/in the [IETF hotel][])
-
-[IETF hotel]: https://www.ietf.org/how/meetings/107/hotel/
-
-Room: TBD
-
-## Remote participation
-
-We won't have professional AV, but there will be best-effort remote
-participation support.
-
-Tentative WebEx: https://ietf.webex.com/ietf/j.php?MTID=m389d8fb7afe63bcff2b93742c9d6c4ba
+WebEx: https://ietf.webex.com/ietf/j.php?MTID=m389d8fb7afe63bcff2b93742c9d6c4ba
 
 * Call-in toll number (US/Canada): 1-650-479-3208
 * Meeting number (access code): 640 663 499
 * Meeting password: constrained
 
+Location: For folks in Vancouver, depending on the IETF 107 f2f arrangements, we may have a room at the [IETF hotel](https://www.ietf.org/how/meetings/107/hotel/) (TBD).
 
 ## Registration
 

@@ -1,6 +1,6 @@
-# T2TRG pre-IETF107 work meeting in Vancouver
+# T2TRG pre-IETF107 work meeting 
 
-**Update:** since many of us are not able to travel to Vancouver, we are planning to have this meeting (mostly) online. 
+**Update:** since IETF 107 f2f was cancelled this will be a fully virtual meeting. 
 
 We are planning to have a T2TRG work meeting on Friday, March 20th, before the IETF week.
 We are planning to focus this meeting on work that could benefit the One Data Model liaison group (OneDM).
@@ -57,20 +57,8 @@ WebEx: https://ietf.webex.com/ietf/j.php?MTID=m389d8fb7afe63bcff2b93742c9d6c4ba
 * Meeting number (access code): 640 663 499
 * Meeting password: constrained
 
-Location: For folks in Vancouver, depending on the IETF 107 f2f arrangements, we may have a room at the [IETF hotel](https://www.ietf.org/how/meetings/107/hotel/) (TBD).
-
 ## Registration
 
-The workshop is free-of-charge to attend, but if you intend to join
-(locally or remotely), please register as soon as possible using the
+The workshop is free-of-charge to attend, but if you intend to join, please register as soon as possible using the
 following form:  https://forms.gle/PpJNQCGyxqcqPaXGA
 
-
-## Continuing work during IETF week
-
-After Friday, 2020-03-20, the T2TRG work will continue with
-participation in the [WISHI activity at IETF107][] Hackathon [(Sat/Sun)][Hackathon], and a Summary
-meeting during IETF week (to be scheduled).
-
-[Hackathon]: https://www.ietf.org/how/runningcode/hackathons/107-hackathon/
-[WISHI activity at IETF107]: https://github.com/t2trg/wishi/wiki/IETF-107-Hackathon

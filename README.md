@@ -46,6 +46,8 @@ Detailed timing of the slots to be determined.
 | 11:00..11:45 | OneDM SDF and IETF standardization                                   |
 | 11:45..12:00 | Wrap-up and close                                                    |
 
+Time zone converter: https://www.timeanddate.com/worldclock/converter.html?iso=20200320T160000&p1=256&p2=224&p3=165&p4=136&p5=37&p6=239&p7=101&p8=235
+
 
 ## Logistics
 

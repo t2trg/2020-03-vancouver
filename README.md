@@ -51,7 +51,7 @@ Time zone converter: https://www.timeanddate.com/worldclock/converter.html?iso=2
 
 ## Logistics
 
-Live notes: https://hackmd.io/R9n8naQcTMeX0n1miV5_Yw?both
+Notes: https://hackmd.io/R9n8naQcTMeX0n1miV5_Yw?view
 
 WebEx: https://ietf.webex.com/ietf/j.php?MTID=m389d8fb7afe63bcff2b93742c9d6c4ba
 
